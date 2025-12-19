@@ -104,7 +104,7 @@ microscope_data_collection_gui
 
 *Figure 1: X-Y coordinate measurement system on microscope stage*
 
-![GUI Interface](images/image2.png)
+![GUI Interface](images/Data_cap.png)
 
 *Figure 2: Main data collection interface with malaria type selection*
 
@@ -118,7 +118,7 @@ microscope_data_collection_gui
 - Enter slide name/identifier in the text field
 - Example: "CM1" for Clinical Malaria sample 1
 
-![Step 1: Enter Slide Name](docs/images/gui_interface.png)
+![Step 1: Enter Slide Name](images/image2.png)
 > **Figure 2**: Enter the slide name in the text field at the top of the GUI interface
 
 #### 2. Position Microscope
@@ -126,7 +126,7 @@ microscope_data_collection_gui
 - Locate region of interest containing malaria cells
 - Note the X and Y coordinate readings on the measurement scales
 
-![Step 2: Read Coordinates](docs/images/coordinate_system.png)
+![Step 2: Read Coordinates](images/image3.png)
 > **Figure 1**: 
 > - **Left panel**: X-coordinate scale (horizontal, 110-170mm range)
 > - **Right panel**: Y-coordinate scale (vertical, 0-30mm range)
