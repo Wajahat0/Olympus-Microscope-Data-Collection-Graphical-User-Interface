@@ -104,10 +104,12 @@ microscope_data_collection_gui
 
 *Figure 1: X-Y coordinate measurement system on microscope stage*
 
-![GUI Interface](docs/images/gui_interface.png)
+![GUI Interface](images/image2.png)
+
 *Figure 2: Main data collection interface with malaria type selection*
 
-![File Naming](docs/images/file_naming_convention.png)
+![File Naming](images/image3.png)
+
 *Figure 3: Automatic file naming convention breakdown*
 
 ### Workflow
