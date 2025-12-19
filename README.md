@@ -101,6 +101,7 @@ microscope_data_collection_gui
 
 #### System Overview
 ![Coordinate System](images/image4.png)
+
 *Figure 1: X-Y coordinate measurement system on microscope stage*
 
 ![GUI Interface](docs/images/gui_interface.png)
