@@ -159,7 +159,6 @@ Position: (145, 15)
   - ☑ None (for uninfected cells)
 - Only one type can be selected at a time
 
-![Step 4: Select Malaria Type](docs/images/gui_interface.png)
 > **Figure 2**: Checkbox options for malaria parasite classification
 > - Top right section shows malaria type checkboxes
 > - Top right displays live microscope view with blood cells
@@ -180,7 +179,6 @@ Position: (145, 15)
   - Generates filename with timestamp and classification
   - Saves in designated output folder
 
-![Step 5: Capture Image](docs/images/gui_interface.png)
 > **Figure 2**: Click the "Capture Image" button (left side) to save the current view
 > - Bottom left shows captured microscope stage position
 > - Bottom right shows captured high-magnification cell image
@@ -196,15 +194,9 @@ Position: (145, 15)
 - Click **"Enter"** button to confirm and prepare for next capture
 - Clears current selection and readies system for next sample
 
-![Step 6: Complete Entry](docs/images/gui_interface.png)
-> **Figure 2**: Click "Enter" button to finalize the entry and reset for next capture
-
 #### 7. Review Saved Files
 After capturing, verify your saved files follow the naming convention:
 
-![File Naming Convention](docs/images/file_naming_convention.png)
-> **Figure 3**: Automatic filename structure breakdown
-> ```
 > Malaria_CM1_17Jun20211104343_1000.tif
 >    │      │         │           │
 >    │      │         │           └─ Malaria Type (1000 = None/Normal)
@@ -237,15 +229,10 @@ To use this guide, save the images in the following structure:
 Olympus-Microscope-Data-Collection/
 └── docs/
     └── images/
-        ├── coordinate_system.png       (Your Image 1)
-        ├── gui_interface.png           (Your Image 2)
-        └── file_naming_convention.png  (Your Image 3)
+        ├── Malaria_CM1_17Jun20211104343_1000.tif       (Your Image 1)
+        ├── Malaria_CM1_17Jun20211104343_1000.jpg           (Your Image 2)
+        └── Malaria_CM1_17Jun20211104343_1000.jpeg  (Your Image 3)
 ```
-
-**Image Sources:**
-- `coordinate_system.png`: Microscope X-Y coordinate rulers
-- `gui_interface.png`: Main GUI with all controls and live view
-- `file_naming_convention.png`: File naming structure example
 
 ## Data Collection Protocol
 
